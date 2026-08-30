@@ -1,94 +1,256 @@
-<!-- Profile Banner (optional) -->
+# 👋 Hi, I'm Arbaaz Alam
+
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://github.com/ARBAAZAARIZ.png" width="120" alt="MD Arbaaz Alam Avatar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Developer;Backend+%7C+REST+API+Developer;Building+Scalable+Enterprise+Applications" />
 </p>
-
-<h2 align="center">Hi, I'm Mohammed Arbaaz Alam — but call me MD!</h2>
-<p align="center"><em>Java Fullstack Software Developer | Backend Specialist | Frontend Enthusiast</em></p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=09E6C0&width=435&lines=Java+Fullstack+Developer;Backend+architecture+specialist;Frontend+polish+enthusiast;Open+Source+Learning+Everyday;Scalable+HRMS+and+Banking+Apps+Builder" alt="Typing SVG" />
-</div>
-
----
-
-## 🛠️ Tech Toolbox
-
-<p align="center" style="margin-bottom: 12px;">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,angular,mysql,bootstrap,html,css,javascript,github" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🏆 [Nexus HRMS Application](https://github.com/ARBAAZAARIZ/Nexus_HRMS_Application): End-to-end scalable HRMS platform.
-- 🏢 [Societies Management System](https://github.com/ARBAAZAARIZ/societies_management_system)
-- 🌐 [Masstech](https://github.com/ARBAAZAARIZ/masstech)
-- ✔️ [Todo-app](https://github.com/ARBAAZAARIZ/Todo-app)
-
----
-
-## 👋 About Me
-
-Hi, I'm Mohammed Arbaaz Alam, but most people call me MD.  
-I’m a full-stack developer with a strong focus on backend architecture and frontend polish.  
-Graduated in Electronics and Telecommunication from Biju Patnaik University (CGPA 8.2).  
-Currently based in Mumbai, building scalable apps for banking, HRMS, and society management.
-
-**What drives me?**  
-Backend puzzles — modular DAO layers, secure login systems (BCrypt & OAuth), session flows, and clean, stepwise documentation.  
-I make sure every teammate feels at home in the codebase.
-
-**Fun fact:**  
-Practicing DSA isn’t just for interviews—it’s how I sharpen my problem-solving instincts.
-
-Outside of work, I enjoy iterating on workflows, visualizing data, and exploring secure authentication flows.  
-Great software should be functional and beautiful—and I aim to build exactly that.
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARBAAZAARIZ&show_icons=true&theme=radical&hide_border=true" alt="MD's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ARBAAZAARIZ&theme=radical&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARBAAZAARIZ&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/graph?username=ARBAAZAARIZ&theme=dracula" alt="GitHub Contribution Graph" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 About Me
+
+💻 **Java Full Stack Developer** with **3.5+ years of experience** building secure, scalable, and enterprise-grade applications.
+
+🔹 Specialized in **Java, Spring Boot, Microservices, Hibernate, JPA, REST APIs, Angular, and Oracle**.
+
+🔹 Experienced in developing **business-critical workflows, authentication systems, database optimization, scheduled jobs, and production applications**.
+
+🔹 Currently working on an enterprise **Membership Management System for NSE**.
+
+🔹 Passionate about writing clean, maintainable code and solving complex backend problems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" />
+</p>
+
+**Java • Spring Boot • Spring MVC • Spring Security • Hibernate • JPA • JDBC • REST APIs • Microservices • JWT • OAuth 2.0**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,bootstrap" />
+</p>
+
+**Angular • React • Angular Material • Bootstrap • HTML5 • CSS3 • JavaScript • AJAX • jQuery**
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+**Oracle Database • MySQL • SQL Server • PostgreSQL • MongoDB • SQL • PL/SQL**
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,postman" />
+</p>
+
+**Git • GitHub • IntelliJ IDEA • Eclipse • Spring Tool Suite • Maven • Postman**
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Java Developer | NuSummit Technologies
+**Client: National Stock Exchange of India (NSE)**  
+📍 Mumbai, India | 📅 Nov 2025 – Present
+
+- Developed and maintained enterprise-grade **Membership Management applications**.
+- Worked with **Java, Spring Boot, Hibernate, JPA, Oracle, Angular, REST APIs and Microservices**.
+- Designed and optimized complex queries using **JPA, Native SQL and Oracle PL/SQL**.
+- Resolved performance issues including **N+1 query problems**.
+- Developed workflows for **member onboarding, approvals, cancellations and compliance**.
+- Implemented scheduled jobs and microservice integrations.
+- Provided production support, debugging and performance optimization.
+
+---
+
+### 🏢 Full Stack Java Web Developer | Masstech Business Solutions
+📍 Thane, India | 📅 May 2023 – Nov 2025
+
+Worked on multiple enterprise applications including:
+
+- **AIG Forge Hub** – Enterprise Bidding Platform
+- **HRMatrix** – Human Resource Management System
+- **Loan Origination System**
+
+Key technologies:
+
+**Java • Spring Boot • Microservices • Angular • Hibernate • JPA • SQL Server • Spring Security • JWT • Google Authenticator**
+
+---
+
+# 📌 Featured Projects
+
+## 🏦 Membership Management System
+
+**Client:** National Stock Exchange of India (NSE)
+
+Enterprise membership management platform supporting:
+
+- Member onboarding
+- Authentication & authorization
+- Approvals
+- Cancellations
+- Compliance
+- Scheduled processing
+- Microservice integrations
+
+**Tech:**  
+`Java` `Spring Boot` `Hibernate` `JPA` `Oracle` `PL/SQL` `Angular` `REST APIs` `Microservices`
+
+---
+
+## 🔨 AIG Forge Hub
+
+Enterprise bidding platform designed for RFQ and vendor management.
+
+### Key Features
+
+🔐 JWT Authentication  
+🛡️ Role-Based Access Control  
+🔑 Google Authenticator 2FA  
+🔄 Refresh Token Mechanism  
+📑 RFQ Management  
+💰 Multi-Bid Support  
+🏢 Vendor Invitations  
+⚡ REST APIs
+
+**Tech:**  
+`Java` `Spring Boot` `Spring Security` `JWT` `Hibernate` `Angular` `SQL Server`
+
+---
+
+## 👨‍💼 HRMatrix
+
+Human Resource Management System.
+
+### Key Features
+
+- Employee Management
+- Training Management
+- Role-Based Access
+- JWT Authentication
+- Google OAuth 2.0
+- Pagination
+- Sorting & Searching
+- Legacy JSP/Servlet migration
+
+**Tech:**  
+`Java` `Spring Boot` `Angular` `Spring Security` `JWT` `SQL Server`
+
+---
+
+## 💰 Loan Origination System
+
+Microservices-based loan processing platform.
+
+### Key Features
+
+- Customer Onboarding
+- Secure Authentication
+- Credit/CIBIL Check Integration
+- Loan Eligibility Validation
+- Deal Management
+- Document Verification
+- Loan Approval/Rejection
+
+**Tech:**  
+`Java` `Spring Boot` `Microservices` `Hibernate` `Angular` `JWT` `SQL Server`
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arbaazaariz/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/mnjuser/homepage" target="_blank">
-    <img alt="Naukri.com" src="https://img.shields.io/badge/-Naukri.com-007FBC?style=for-the-badge&logo=&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lu__ci_fer_" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 💡 Quote
-> “I don’t just write code—I architect clarity. Every bug I fix, every flow I modularize, is a step toward elegance.”
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<!--
-If you like this README, drop a ⭐ on my projects!
--->
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🧠 What I Work With
+
+```text
+Java
+ ├── Spring Boot
+ │    ├── REST APIs
+ │    ├── Microservices
+ │    ├── Spring Security
+ │    └── JWT / OAuth 2.0
+ │
+ ├── Persistence
+ │    ├── Hibernate
+ │    ├── JPA
+ │    └── JDBC
+ │
+ ├── Database
+ │    ├── Oracle
+ │    ├── MySQL
+ │    └── SQL Server
+ │
+ └── Frontend
+      ├── Angular
+      ├── React
+      ├── HTML
+      └── CSS
+
+☕ Advanced Java & Spring Boot
+🏗️ Microservices Architecture
+🔐 Spring Security & OAuth 2.0
+🗄️ Database Optimization
+⚡ Application Performance
+☁️ Cloud & DevOps
+🤖 AI Integration with Java Applications
+
+🏆 Certifications
+🥇 Java Fundamentals – IBM
+🥇 Core Java Web Development – IT Vedant
+🥇 Master in Full Stack Java Development – IT Vedant
+🥇 SQL Certification – IT Vedant
+
+📚 Currently Learning
+Advanced Spring Boot
+Microservices Architecture
+System Design
+Docker & Kubernetes
+AWS
+AI & LLM Integration
+AI Agents
+
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/arbaazaariz"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:md.rocks788@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/ARBAAZAARIZ"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/> </a> </p>
